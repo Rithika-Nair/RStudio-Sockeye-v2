@@ -1,0 +1,5 @@
+.config
+.local
+.Rhistory
+/job_scripts/*.txt
+.DS_Store
